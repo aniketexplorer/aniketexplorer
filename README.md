@@ -32,12 +32,6 @@ I am a **Software Engineering Practitioner** with a focus on building performant
 
 ### 🛠️ Tech Stack
 
-#### 🤖 Generative AI & Cloud
-| Category | Technologies & Skills |
-| :--- | :--- |
-| **AI / ML** | ![Generative AI](https://img.shields.io/badge/Generative_AI-000000?style=flat&logo=openai&logoColor=white) **Gemini API**, **LLM Orchestration**, **Python** |
-| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
-| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 
 #### 💻 Software Engineering
 | Category | Technologies & Skills |
@@ -47,7 +41,12 @@ I am a **Software Engineering Practitioner** with a focus on building performant
 | **Databases** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
 | **Core** | **DSA**, **OOPS**, **Operating Systems**, **Computer Networks** |
 
----
+#### 🤖 Generative AI & Cloud
+| Category | Technologies & Skills |
+| :--- | :--- |
+| **AI / ML** | ![Generative AI](https://img.shields.io/badge/Generative_AI-000000?style=flat&logo=openai&logoColor=white) **Gemini API**, **LLM Orchestration**, **Python** |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 
 ### 💼 Experience
 <br />
