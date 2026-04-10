@@ -36,10 +36,11 @@ I am a **Software Engineering Practitioner** with a focus on building performant
 #### 💻 Software Engineering
 | Category | Technologies & Skills |
 | :--- | :--- |
+| **Languages** | **C++**, **Python**, **JavaScript** |
 | **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 | **Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) |
 | **Databases** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **Core** | **DSA**, **OOPS**, **Operating Systems**, **Computer Networks** |
+| **CS Fundamentals** | **DSA**, **OOPS**, **Operating Systems**, **Computer Networks**,**DBMS**  |
 
 #### 🤖 Generative AI & Cloud
 | Category | Technologies & Skills |
@@ -54,7 +55,7 @@ SDE Intern @ CodeClause: Engineered industrial-grade features using React and Fa
  SDE Intern @ Headstarter AI: Implemented real-time listeners and architected scalable schemas using Firebase and AWS.<br />
 Organizer Leader @ Technobash: Led technical workshops and events at GSMCOE Pune.
 <br />
----
+
 
 ### 🏆 Achievements & Education
 
