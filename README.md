@@ -25,7 +25,7 @@ I am a **Software Engineering Practitioner** with a focus on building performant
 
 🤖 **Gen-AI Specialist:** Experienced in **Gemini API integration**, **LLM orchestration**, and **Agentic AI**
      <br />        💻 **Full-Stack Engineer:** Building robust systems using **ReactJS**, **NodeJS**, **NestJS**, and **Python (FastAPI/Django)**<br />
-**Cloud & DevOps:** Hands-on experience with **AWS** environments and **Firebase** real-time services.<br />
+☁️ **Cloud & DevOps:** Hands-on experience with **AWS** environments and **Firebase** real-time services.<br />
 🏆 **Award Winner:** Recognized as an **Innovative Engineer (2024)** by ISRC.
 
 ---
