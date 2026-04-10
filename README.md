@@ -18,14 +18,14 @@
   </div>
 </div>
 
----
+
 
 ### 🚀 About Me
-I am a **Software Engineering Practitioner** with a focus on building performant, scalable web applications and integrating **Autonomous AI Agents**.I combine technical rigor with an award-winning approach to digital transformation.
+I am a **Software Engineering Practitioner** with a focus on building performant, scalable web applications and integrating **Autonomous AI Agents**.<br />I combine technical rigor with an award-winning approach to digital transformation.
 
 🤖 **Gen-AI Specialist:** Experienced in **Gemini API integration**, **LLM orchestration**, and **Agentic AI**
-💻 **Full-Stack Engineer:** Building robust systems using **ReactJS**, **NodeJS**, **NestJS**, and **Python (FastAPI/Django)**
-**Cloud & DevOps:** Hands-on experience with **AWS** environments and **Firebase** real-time services.
+     <br />        💻 **Full-Stack Engineer:** Building robust systems using **ReactJS**, **NodeJS**, **NestJS**, and **Python (FastAPI/Django)**<br />
+**Cloud & DevOps:** Hands-on experience with **AWS** environments and **Firebase** real-time services.<br />
 🏆 **Award Winner:** Recognized as an **Innovative Engineer (2024)** by ISRC.
 
 ---
@@ -50,25 +50,25 @@ I am a **Software Engineering Practitioner** with a focus on building performant
 ---
 
 ### 💼 Experience
-
- **SDE Intern @ CodeClause:** Engineered industrial-grade features using **React** and **FastAPI**, optimizing API response times.
- **SDE Intern @ Headstarter AI:** Implemented real-time listeners and architected scalable schemas using **Firebase** and **AWS**.
-**Organizer Leader @ Technobash:** Led technical workshops and events at **GSMCOE Pune**
-
+<br />
+SDE Intern @ CodeClause: Engineered industrial-grade features using React and FastAPI, optimizing API response times.<br />
+ SDE Intern @ Headstarter AI: Implemented real-time listeners and architected scalable schemas using Firebase and AWS.<br />
+Organizer Leader @ Technobash: Led technical workshops and events at GSMCOE Pune.
+<br />
 ---
 
 ### 🏆 Achievements & Education
 
-**Innovative Engineer Award 2024:** Awarded by ISRC for "Dukaan," a smart retail solution.
-**AWS User Group Pune:** Winner of technical contests and active community speaker.
-**Academic:** B.E. in Computer Engineering from **G S Moze College of Engineering** (CGPA: **8.64**).
+Innovative Engineer Award 2024: Awarded by ISRC for "Dukaan," a smart retail solution.<br />
+AWS User Group Pune: Winner of technical contests and active community speaker.<br />
+Academics: B.E. in Computer Engineering from **G S Moze College of Engineering** (CGPA: **8.64**).<br />
 
 
 
 ### 🤝 Let's Connect
 
-💬 **Ask me about:** **Agentic AI** orchestration with **NestJS**, **RAG** pipelines, or **MERN** development.
-🚀 **Open to:** Full-stack roles and AI-driven digital transformation projects.
+💬 Ask me about:Agentic AI orchestration with NestJS, RAG pipelines, or MERN development.<br />
+🚀 Open to: Full-stack roles and AI-driven digital transformation projects.
 
 <div align="center">
   <a href="https://linkedin.com/in/aniketprajapati18">
