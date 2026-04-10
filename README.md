@@ -21,7 +21,7 @@
 ---
 
 ### 🚀 About Me
-I am a **Software Engineering Practitioner** with a focus on building performant, scalable web applications and integrating **Autonomous AI Agents**[cite: 6, 8].I combine technical rigor with an award-winning approach to digital transformation.
+I am a **Software Engineering Practitioner** with a focus on building performant, scalable web applications and integrating **Autonomous AI Agents**.I combine technical rigor with an award-winning approach to digital transformation.
 
 🤖 **Gen-AI Specialist:** Experienced in **Gemini API integration**, **LLM orchestration**, and **Agentic AI**
 💻 **Full-Stack Engineer:** Building robust systems using **ReactJS**, **NodeJS**, **NestJS**, and **Python (FastAPI/Django)**
