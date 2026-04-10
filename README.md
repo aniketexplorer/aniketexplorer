@@ -21,12 +21,12 @@
 ---
 
 ### 🚀 About Me
-[cite_start]I am a **Software Engineering Practitioner** with a focus on building performant, scalable web applications and integrating **Autonomous AI Agents**[cite: 6, 8]. [cite_start]I combine technical rigor with an award-winning approach to digital transformation[cite: 7].
+I am a **Software Engineering Practitioner** with a focus on building performant, scalable web applications and integrating **Autonomous AI Agents**[cite: 6, 8].I combine technical rigor with an award-winning approach to digital transformation.
 
-* [cite_start]🤖 **Gen-AI Specialist:** Experienced in **Gemini API integration**, **LLM orchestration**, and **Agentic AI**[cite: 20, 29, 31].
-* [cite_start]💻 **Full-Stack Engineer:** Building robust systems using **ReactJS**, **NodeJS**, **NestJS**, and **Python (FastAPI/Django)**[cite: 12, 19, 29].
-* [cite_start]☁️ **Cloud & DevOps:** Hands-on experience with **AWS** environments and **Firebase** real-time services[cite: 20, 26, 27].
-* [cite_start]🏆 **Award Winner:** Recognized as an **Innovative Engineer (2024)** by ISRC[cite: 51].
+🤖 **Gen-AI Specialist:** Experienced in **Gemini API integration**, **LLM orchestration**, and **Agentic AI**
+💻 **Full-Stack Engineer:** Building robust systems using **ReactJS**, **NodeJS**, **NestJS**, and **Python (FastAPI/Django)**
+**Cloud & DevOps:** Hands-on experience with **AWS** environments and **Firebase** real-time services.
+🏆 **Award Winner:** Recognized as an **Innovative Engineer (2024)** by ISRC.
 
 ---
 
@@ -51,31 +51,24 @@
 
 ### 💼 Experience
 
-* [cite_start]⚡ **SDE Intern @ CodeClause:** Engineered industrial-grade features using **React** and **FastAPI**, optimizing API response times[cite: 22, 23].
-* [cite_start]🤖 **SDE Intern @ Headstarter AI:** Implemented real-time listeners and architected scalable schemas using **Firebase** and **AWS**[cite: 26, 27].
-* [cite_start]🏫 **Organizer Leader @ Technobash:** Led technical workshops and events at **GSMCOE Pune**[cite: 45, 47].
+ **SDE Intern @ CodeClause:** Engineered industrial-grade features using **React** and **FastAPI**, optimizing API response times.
+ **SDE Intern @ Headstarter AI:** Implemented real-time listeners and architected scalable schemas using **Firebase** and **AWS**.
+**Organizer Leader @ Technobash:** Led technical workshops and events at **GSMCOE Pune**
 
 ---
 
 ### 🏆 Achievements & Education
 
-* [cite_start]**Innovative Engineer Award 2024:** Awarded by ISRC for "Dukaan," a smart retail solution[cite: 51, 52].
-* [cite_start]**AWS User Group Pune:** Winner of technical contests and active community speaker[cite: 49, 50].
-* [cite_start]**Academic:** B.E. in Computer Engineering from **G S Moze College of Engineering** (CGPA: **8.64**)[cite: 9, 10, 16].
+**Innovative Engineer Award 2024:** Awarded by ISRC for "Dukaan," a smart retail solution.
+**AWS User Group Pune:** Winner of technical contests and active community speaker.
+**Academic:** B.E. in Computer Engineering from **G S Moze College of Engineering** (CGPA: **8.64**).
 
----
 
-### 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=aniketexplorer&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aniketexplorer&theme=default&hide_border=false)
-
----
 
 ### 🤝 Let's Connect
 
-* [cite_start]💬 **Ask me about:** **Agentic AI** orchestration with **NestJS**, **RAG** pipelines, or **MERN** development[cite: 29, 31].
-* [cite_start]🚀 **Open to:** Full-stack roles and AI-driven digital transformation projects[cite: 8].
+💬 **Ask me about:** **Agentic AI** orchestration with **NestJS**, **RAG** pipelines, or **MERN** development.
+🚀 **Open to:** Full-stack roles and AI-driven digital transformation projects.
 
 <div align="center">
   <a href="https://linkedin.com/in/aniketprajapati18">
