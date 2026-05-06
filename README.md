@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Aniket%20Prajapati&fontSize=70&animation=fadeIn" />
   
   <p align="center">
-    **Software Engineering Practitioner | Gen-AI Integration Specialist | Full-Stack Developer**
+    ** Software Engineer | Gen-AI Integration Specialist | Full-Stack Developer**
   </p>
 
   <div>
